@@ -1,6 +1,6 @@
 ---
 title: "Fractal Vise Robotic Gripper"
-excerpt: "3D printed compliant gripper design for robotic applications<br/><img src='/images/500x300.png'>"
+excerpt: "3D printed compliant gripper design for robotic applications<br/><img src='/images/fractal-vise.png'>"
 collection: portfolio
 ---
 
