@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Fractal Vise Robotic Gripper"
+excerpt: "3D printed compliant gripper design for robotic applications<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
