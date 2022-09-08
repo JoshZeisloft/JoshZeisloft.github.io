@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a final semester undergraduate student at Georgia Institute of Technology, majoring in mechanical engineering adn minoring in robotics. I enjoy mechanical design of robotic systems, planning & control, and manufaturing.
+I am currently a final semester undergraduate student at the Georgia Institute of Technology, majoring in mechanical engineering and minoring in robotics. I enjoy mechanical design of robotic systems, planning & control, and manufaturing.
 
 How to use this website
 ======
