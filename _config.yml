@@ -11,9 +11,9 @@ title                    : "Joshua Zeisloft"
 title_separator          : "-"
 name                     : &name "Joshua Zeisloft"
 description              : &description "Undergraduate Mechanical Engineer"
-url                      : https://joshzeisloft.github.io/joshua-zeisloft.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://joshua-zeisloft.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "joshua-zeisloft.github.io"
+repository               : "JoshZeisloft/joshua-zeisloft.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
