@@ -4,4 +4,4 @@ excerpt: "3D printed compliant gripper design for robotic applications<br/><img 
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+As part of a research group at Georgia Tech, I served as the lead design and manufacturer of a 3D printed gripper. This gripper implements the idea of a "fractal vise", which allows for a compliant design in order for a more spread out stress consentration on fragile parts.
