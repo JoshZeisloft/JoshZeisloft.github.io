@@ -12,7 +12,7 @@ I am currently a final semester undergraduate student at the Georgia Institute o
 
 What I'm looking for
 ======
-I am currently looking for a full-time position, starting in January 2023. I will be graduating Georgia Tech in December 2022, with a bachelor's degree in mechanical engineering and a minor in robotics. My main focus is CAD and design of mechaincal systems (specifically for robotics), but I am aslo passionate about controls and manufacturing.
+I am seeking a full-time position, starting in January 2023. I will be graduating from Georgia Tech in December 2022, with a bachelor's degree in mechanical engineering and a minor in robotics. My main focus is CAD and design of mechaincal systems (specifically for robotics), but I am also passionate about controls and manufacturing.
 
 What I can offer
 ======
