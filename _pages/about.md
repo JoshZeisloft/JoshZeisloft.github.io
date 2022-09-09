@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a final semester undergraduate student at the Georgia Institute of Technology, majoring in mechanical engineering and minoring in robotics. I am originally from Pittsburgh, PA and moved to Atlanta, Georgia in 2019. In my free time I enjoy lifting, rock climbing, travel and car restoration,
+I am currently a final semester undergraduate student at the Georgia Institute of Technology, majoring in mechanical engineering and minoring in robotics. I am originally from Pittsburgh, PA and moved to Atlanta, Georgia in 2019. In my free time I enjoy lifting, rock climbing, travel and car restoration.
 
 What I'm looking for
 ======
