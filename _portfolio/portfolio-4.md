@@ -9,4 +9,4 @@ Served as the head of a team tasked with creating a simple robot to score variou
 <object data="/files/Final Report.pdf" type="application/pdf">    
 </object>
 
-<embed src="/files/Final Report.pdf">
+<embed src="/files/Final Report.pdf" type="application/pdf">
