@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Joshua Zeisloft"
 title_separator          : "-"
 name                     : &name "Joshua Zeisloft"
-description              : &description "Undergraduate Mechanical Engineer"
+description              : &description "Robotics Engineer"
 url                      : https://joshzeisloft.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JoshZeisloft/JoshZeisloft.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Joshua Zeisloft"
   avatar           : "Profile Picture.JPG"
-  bio              : "Undergraduate Student at Georgia Tech"
+  bio              : "Robotics Engineer"
   location         : "Atlanta, Georgia"
   employer         :
   pubmed           : 
