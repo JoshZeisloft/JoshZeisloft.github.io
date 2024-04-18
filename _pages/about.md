@@ -12,7 +12,7 @@ I am currently a robotics engineer at SRG Global, an automotive manufacturing co
 
 What I'm looking for
 ======
-I am seeking full-time opportunities related to robotics with an emphasis on mechanical design and testing. In the field on robotics, I am mainly looking for the opportunity to work on robotic cells for manufacturing improvment. Ideally, working as an integrator or in-house integrator, wokring through the entire design, build, program and test cycle.
+I am seeking full-time opportunities related to robotics with an emphasis on mechanical design and testing. In the field on robotics, I am mainly looking for the opportunity to work on robotic cells for manufacturing improvement. Ideally, working as an integrator or in-house integrator, wokring through the entire design, build, program and test cycle.
 
 What I can offer
 ======
