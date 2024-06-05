@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a robotics engineer at SRG Global, an automotive manufacturing comapny. I graduated the Georgia Institute of Technology in 2022 and majored in mechanical engineering and minored in robotics. I am originally from Pittsburgh, PA and moved to Atlanta, Georgia in 2019. In my free time I enjoy lifting, rock climbing, travel and car restoration.
+I am currently a robotics engineer at SRG Global, an automotive manufacturing comapny. I graduated the Georgia Institute of Technology in 2022 and majored in mechanical engineering and minored in robotics. I am originally from Pittsburgh, PA and moved to Atlanta, GA in 2019. In my free time I enjoy lifting, rock climbing, travel and car restoration.
 
 What I'm looking for
 ======
-I am seeking full-time opportunities related to robotics with an emphasis on mechanical design and testing. In the field on robotics, I am mainly looking for the opportunity to work on robotic cells for manufacturing improvement. Ideally, working as an integrator or in-house integrator, wokring through the entire design, build, program and test cycle.
+I am seeking full-time opportunities related to robotics with an emphasis on mechanical design and testing. In the field on robotics, I am mainly looking for the opportunity to work on robotic cells for manufacturing improvement. Ideally, working as an integrator or in-house integrator, being a part of the entire design, build, program and test cycle.
 
 What I can offer
 ======
