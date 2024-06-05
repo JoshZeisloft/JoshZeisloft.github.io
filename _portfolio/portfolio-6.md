@@ -1,6 +1,6 @@
 ---
 title: "Metal Stamping Line Robotic Tending"
-excerpt: "Automotive assembly cell for Nissan body side molding parts<br/>"
+excerpt: "Automotive metal stamping line for F-150 door belt chrome parts<br/>"
 collection: portfolio
 ---
 
