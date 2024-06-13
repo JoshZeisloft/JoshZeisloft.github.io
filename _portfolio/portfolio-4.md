@@ -1,5 +1,5 @@
 ---
-title: "UVC Covid Disinfection Cart"
+title: "UVC COVID-19 Disinfection Cart"
 excerpt: "UVC push-cart designed for sterilizing classrooms, offices, gyms, etc<br/>"
 collection: portfolio
 ---
