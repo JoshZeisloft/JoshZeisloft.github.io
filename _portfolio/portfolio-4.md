@@ -1,9 +1,9 @@
 ---
-title: "ME 2110 Simple Robot Design"
-excerpt: "Introduction to formal design process using a simple class competition<br/>"
+title: "UVC Covid Disinfection Cart"
+excerpt: "UVC push-cart designed for sterilizing classrooms, offices, gyms, etc<br/>"
 collection: portfolio
 ---
 
-Served as the head of a team tasked with creating a simple robot to score various points using ping pong balls. This project used a start-to-finish deisgn approach, utilizing tools such as the house of quality, morphological chart and specification sheet, to come a final design.
+Served as the head of design for in a startup company that creates UVC light products meant to help prevent COVID-19 from living on surfaces. I spent the summer as an intern learning about CAD design for manufacturing, sales, procurement and R&D. I was responsibile for providing the techincal specifications of the cart and going to demos at customer sites.
 
-<iframe width="100%" height="800" src="/files/Final Report.pdf">
+<iframe width="100%" height="800" src="https://www.safe-space.us/c4uv-disinfection-cart">
