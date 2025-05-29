@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a robotics engineer at SRG Global, an automotive manufacturing comapny. I graduated the Georgia Institute of Technology in 2022, where I majored in mechanical engineering and minored in robotics. I am originally from Pittsburgh, PA and moved to Atlanta, GA in 2019. In my free time I enjoy lifting, rock climbing, travel and car restoration.
+I am currently an automation engineer at Adient, an automotive seating manufacturing comapny. I graduated the Georgia Institute of Technology in 2022, where I majored in mechanical engineering and minored in robotics. I am originally from Pittsburgh, PA and moved to Atlanta, GA in 2019. In my free time I enjoy lifting, running, rock climbing, travel and car restoration.
 
 What I'm looking for
 ======
