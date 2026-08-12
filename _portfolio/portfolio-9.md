@@ -1,6 +1,6 @@
 ---
 title: "Automotive Seat Wrinkle Detection and Removal"
-excerpt: "Automotive seating end of line testing cell<br/>"
+excerpt: "Automotive seating NVA work removal and quality/craftsmanship increase<br/>"
 collection: portfolio
 ---
 
